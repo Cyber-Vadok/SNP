@@ -1,0 +1,14 @@
+esameSNP55: mutex,thread, strutture per la conoscenza dei file dirent e stat
+esameSNP54: record lock, shared memory parent-child, server udp, semafori
+esameSNP53: server udp, strutture per la conoscenza dei file dirent e stat (ricerca per estensione file)
+esameSNP51: server udp multicast, mappa di gioco
+esameSNP50: shared memory parent-child, server udp, mutex
+esameSNP48: server tcp, record lock, scrittura su file, shared memory posix
+esameSNP43: record lock, segnali, shared memory parent child, utilizzo del tempo
+esameSNP40: fork, millisecond, shared memory parent child, tcp
+esameSNP39: strutture per la conoscenza dei file dirent e stat, tempo, thread, mutex, copiare un file in una directory,deamon, log
+esameSNP36: utilizzo dei file, dirent e stat, server udp
+esameSNP?: utilizzo di client e server in un processo, conteggio in millisecondi
+
+
+Altri codici non d'esame: condition var, memoria condivisa, server tcp, server udp, server multicast, pipe, pipe tra due processi che non si conoscono, gestore di segnali, select, semafori posix, thread, semafori system V
