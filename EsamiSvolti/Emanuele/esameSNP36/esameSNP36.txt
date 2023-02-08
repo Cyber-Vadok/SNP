@@ -1,0 +1,15 @@
+Esercizio
+
+Scrivere nel linguaggio C un programma client di nome A e un programma 
+server di nome B che funzionino nel modo seguente:
+
+1) Il programma A chiede all'utente se vuole contare file o directory.
+
+2) L'utente risponde con una lettera ("f" per file e "d" per directory).
+
+3) Il programma A invia con un datagramma UDP tale lettera al programma
+B.
+
+4) Il programma B conta tutti i file o tutte le directory della macchina
+su cui gira, a seconda della lettera ricevuta e invia la risposta al
+programma A che la mostra all'utente.
