@@ -1,0 +1,18 @@
+*****Received message from  '127.0.0.1:46586' 
+ Message (len = 4): 'ciao'
+*****Received message from  '127.0.0.1:46586' 
+ Message (len = 4): 'ciao'
+
+*****Received message from  '127.0.0.1:60199' 
+ Message (len = 4): 'ciao'
+*****Received message from  '127.0.0.1:60199' 
+ Message (len = 4): 'ciao'
+
+*****Received message from  '127.0.0.1:59576' 
+ Message (len = 4): 'sugo'
+*****Received message from  '127.0.0.1:59576' 
+ Message (len = 4): 'sugo'
+
+*****Received message from  '127.0.0.1:57217' 
+ Message (len = 10): 'cacamineto'
+
